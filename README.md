@@ -1,2 +1,5 @@
 # SoupBot
 SoupBotMain - (v1.0.0/1238x548)
+
+_API CONNECTION SECURE
+_BOT STATUS SECURE
